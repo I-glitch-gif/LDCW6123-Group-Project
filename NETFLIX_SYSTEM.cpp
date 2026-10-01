@@ -719,3 +719,5 @@ void loadData() {
         wf.close();
     }
 }
+
+// Feature: Error handling and output formatting
