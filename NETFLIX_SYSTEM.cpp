@@ -1,5 +1,6 @@
 /*
     NETFLIX-INSPIRED MOVIE RECOMMENDATION & SUBSCRIPTION SYSTEM
+    Feature: Updated user menu interface
 */
 
 #include <iostream>
